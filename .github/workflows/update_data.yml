@@ -42,4 +42,4 @@ jobs:
           git push
 
       - name: 🚀 Notification à Render
-        run: curl -X POST "https://api.render.com/deploy/srv-d6tamkv5gffc7391ngdg?key=GtujNavkxWk"
+        run: curl -X POST "${{ secrets.RENDER_WEBHOOK }}"
