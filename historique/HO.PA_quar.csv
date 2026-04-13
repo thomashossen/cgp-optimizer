@@ -38,8 +38,8 @@ Other Non Current Assets,Bilan,,300000.0,-10000.0
 Defined Pension Benefit,Bilan,,,198850000.0
 Non Current Deferred Taxes Assets,Bilan,1276500000.0,1276800000.0,1366600000.0
 Other Investments,Bilan,279000000.0,152200000.0,365600000.0
-Investmentin Financial Assets,Bilan,,426300000.0,-11500000.0
-Available For Sale Securities,Bilan,,426300000.0,-11500000.0
+Investmentin Financial Assets,Bilan,92300000.0,426300000.0,113100000.0
+Available For Sale Securities,Bilan,92300000.0,426300000.0,113100000.0
 Long Term Equity Investment,Bilan,1712500000.0,1591200000.0,1648200000.0
 Investmentsin Associatesat Cost,Bilan,,,1648200000.0
 Goodwill And Other Intangible Assets,Bilan,10526600000.0,10700300000.0,11431900000.0
@@ -47,11 +47,11 @@ Other Intangible Assets,Bilan,1996100000.0,2171200000.0,2532700000.0
 Goodwill,Bilan,8530500000.0,8529100000.0,8899200000.0
 Net PPE,Bilan,3899200000.0,3707200000.0,3715500000.0
 Accumulated Depreciation,Bilan,-7095300000.0,,-6918200000.0
-Gross PPE,Bilan,10994500000.0,3707200000.0,10633700000.0
-Other Properties,Bilan,4055000000.0,3707200000.0,3830200000.0
-Machinery Furniture Equipment,Bilan,4080000000.0,,4151000000.0
-Buildings And Improvements,Bilan,2675500000.0,,2587200000.0
-Land And Improvements,Bilan,184000000.0,,65300000.0
+Gross PPE,Bilan,10994500000.0,3707200000.0,3715500000.0
+Other Properties,Bilan,4055000000.0,3707200000.0,1907500000.0
+Machinery Furniture Equipment,Bilan,4080000000.0,,898300000.0
+Buildings And Improvements,Bilan,2675500000.0,,846200000.0
+Land And Improvements,Bilan,184000000.0,,63500000.0
 Properties,Bilan,0.0,,0.0
 Current Assets,Bilan,21322300000.0,21032700000.0,21295400000.0
 Other Current Assets,Bilan,-100000.0,,
@@ -67,9 +67,9 @@ Work In Process,Bilan,3820700000.0,,3814500000.0
 Raw Materials,Bilan,1645700000.0,,1540800000.0
 Other Receivables,Bilan,4538900000.0,3745700000.0,4155600000.0
 Taxes Receivable,Bilan,2317300000.0,127700000.0,1987100000.0
-Accounts Receivable,Bilan,3969000000.0,6741800000.0,4418400000.0
+Accounts Receivable,Bilan,3968900000.0,6741800000.0,4418400000.0
 Allowance For Doubtful Accounts Receivable,Bilan,-144600000.0,,-131000000.0
-Gross Accounts Receivable,Bilan,4113600000.0,,4549400000.0
+Gross Accounts Receivable,Bilan,4113500000.0,,4549400000.0
 Cash Cash Equivalents And Short Term Investments,Bilan,4491100000.0,3886900000.0,4768000000.0
 Other Short Term Investments,Bilan,44600000.0,49800000.0,900000.0
 Cash And Cash Equivalents,Bilan,4446500000.0,3837100000.0,4767100000.0
