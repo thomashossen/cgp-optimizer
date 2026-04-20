@@ -13,10 +13,10 @@ Interest Income,Compte de Résultat,195000000.0,157000000.0,171000000.0,20900000
 Normalized Income,Compte de Résultat,2580000000.0,1116000000.0,732000000.0,793000000.0,2424000000.0,
 Net Income From Continuing And Discontinued Operation,Compte de Résultat,2580000000.0,1116000000.0,732000000.0,793000000.0,2424000000.0,
 Total Expenses,Compte de Résultat,23928000000.0,16187000000.0,15067000000.0,13002000000.0,22255000000.0,
-Diluted Average Shares,Compte de Résultat,,,787096774.0,788579719.0,,792741935.0
+Diluted Average Shares,Compte de Résultat,,,,788579719.0,,792741935.0
 Basic Average Shares,Compte de Résultat,,,787096774.0,787433498.0,,792741935.0
-Diluted EPS,Compte de Résultat,,,0.93,1.01,,1.24
-Basic EPS,Compte de Résultat,,,0.93,1.01,,1.24
+Diluted EPS,Compte de Résultat,,,,1.01,,1.24
+Basic EPS,Compte de Résultat,,,,1.01,,1.24
 Diluted NI Availto Com Stockholders,Compte de Résultat,2580000000.0,1116000000.0,732000000.0,793000000.0,2424000000.0,
 Net Income Common Stockholders,Compte de Résultat,2580000000.0,1116000000.0,732000000.0,793000000.0,2424000000.0,
 Otherunder Preferred Stock Dividend,Compte de Résultat,0.0,0.0,0.0,0.0,0.0,
@@ -114,7 +114,6 @@ Assets Held For Sale Current,Bilan,63000000.0,60000000.0,54000000.0,54000000.0,6
 Current Deferred Assets,Bilan,683000000.0,675000000.0,665000000.0,652000000.0,623000000.0,
 Prepaid Assets,Bilan,7551000000.0,593000000.0,816000000.0,941000000.0,7320000000.0,
 Inventory,Bilan,34891000000.0,44184000000.0,43471000000.0,41530000000.0,31046000000.0,
-Finished Goods,Bilan,5233000000.0,,,,5054000000.0,
 Work In Process,Bilan,23943000000.0,,,,20925000000.0,
 Raw Materials,Bilan,5715000000.0,,,,5067000000.0,
 Other Receivables,Bilan,3065000000.0,2387000000.0,2300000000.0,2356000000.0,2633000000.0,

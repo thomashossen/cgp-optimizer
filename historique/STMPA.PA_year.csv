@@ -152,7 +152,6 @@ Free Cash Flow,Flux de Trésorerie,-52000000.0,-216000000.0,1456000000.0,1566000
 Repurchase Of Capital Stock,Flux de Trésorerie,-367000000.0,-359000000.0,-346000000.0,-346000000.0,
 Repayment Of Debt,Flux de Trésorerie,-989000000.0,-203000000.0,-169000000.0,-134000000.0,
 Issuance Of Debt,Flux de Trésorerie,0.0,300000000.0,329000000.0,200000000.0,
-Capital Expenditure,Flux de Trésorerie,-2204000000.0,-3181000000.0,-4536000000.0,-3636000000.0,
 Interest Paid Supplemental Data,Flux de Trésorerie,54000000.0,67000000.0,31000000.0,2000000.0,
 Income Tax Paid Supplemental Data,Flux de Trésorerie,141000000.0,197000000.0,489000000.0,416000000.0,
 End Cash Position,Flux de Trésorerie,2837000000.0,2282000000.0,3222000000.0,3258000000.0,
@@ -204,7 +203,6 @@ Depreciation Amortization Depletion,Flux de Trésorerie,1854000000.0,1760000000.
 Depreciation And Amortization,Flux de Trésorerie,1854000000.0,1760000000.0,1561000000.0,1216000000.0,
 Amortization Cash Flow,Flux de Trésorerie,101000000.0,102000000.0,97000000.0,103000000.0,
 Amortization Of Intangibles,Flux de Trésorerie,101000000.0,102000000.0,97000000.0,103000000.0,
-Depreciation,Flux de Trésorerie,1753000000.0,1658000000.0,1464000000.0,1113000000.0,
 Operating Gains Losses,Flux de Trésorerie,-76000000.0,1000000.0,,,43000000.0
 Earnings Losses From Equity Investments,Flux de Trésorerie,,,,0.0,0.0
 Gain Loss On Investment Securities,Flux de Trésorerie,-76000000.0,1000000.0,,,43000000.0
