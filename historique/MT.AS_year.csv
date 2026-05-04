@@ -16,10 +16,10 @@ Normalized Income,Compte de Résultat,1352234036.646308,1778240000.0,2095111111.
 Net Income From Continuing And Discontinued Operation,Compte de Résultat,3152000000.0,1339000000.0,919000000.0,9302000000.0,
 Total Expenses,Compte de Résultat,59891000000.0,59333000000.0,66178000000.0,69623000000.0,
 Total Operating Income As Reported,Compte de Résultat,3628000000.0,3310000000.0,2340000000.0,10272000000.0,
-Diluted Average Shares,Compte de Résultat,,791000000.0,845000000.0,914000000.0,1108000000.0
-Basic Average Shares,Compte de Résultat,,788000000.0,842000000.0,911000000.0,1105000000.0
-Diluted EPS,Compte de Résultat,,1.69,1.09,10.18,13.49
-Basic EPS,Compte de Résultat,,1.7,1.09,10.21,13.53
+Diluted Average Shares,Compte de Résultat,766000000.0,791000000.0,845000000.0,914000000.0,
+Basic Average Shares,Compte de Résultat,763000000.0,788000000.0,842000000.0,911000000.0,
+Diluted EPS,Compte de Résultat,4.11,1.69,1.09,10.18,
+Basic EPS,Compte de Résultat,4.13,1.7,1.09,10.21,
 Diluted NI Availto Com Stockholders,Compte de Résultat,3152000000.0,1339000000.0,919000000.0,9302000000.0,
 Net Income Common Stockholders,Compte de Résultat,3152000000.0,1339000000.0,919000000.0,9302000000.0,
 Net Income,Compte de Résultat,3152000000.0,1339000000.0,919000000.0,9302000000.0,
@@ -92,6 +92,7 @@ Current Deferred Revenue,Bilan,94000000.0,88000000.0,109000000.0,67000000.0,
 Current Debt And Capital Lease Obligation,Bilan,2739000000.0,2748000000.0,2312000000.0,2583000000.0,
 Current Capital Lease Obligation,Bilan,214000000.0,182000000.0,207000000.0,228000000.0,
 Current Debt,Bilan,2525000000.0,2566000000.0,2105000000.0,2355000000.0,
+Other Current Borrowings,Bilan,2525000000.0,2566000000.0,2105000000.0,2355000000.0,
 Current Provisions,Bilan,1039000000.0,938000000.0,588000000.0,1101000000.0,
 Payables And Accrued Expenses,Bilan,18406000000.0,17724000000.0,18400000000.0,18089000000.0,
 Current Accrued Expenses,Bilan,2517000000.0,2208000000.0,2537000000.0,2464000000.0,
@@ -168,6 +169,7 @@ Net Common Stock Issuance,Flux de Trésorerie,-262000000.0,-1300000000.0,-120800
 Common Stock Payments,Flux de Trésorerie,-262000000.0,-1300000000.0,-1208000000.0,-2937000000.0,
 Common Stock Issuance,Flux de Trésorerie,,,,0.0,0.0
 Net Issuance Payments Of Debt,Flux de Trésorerie,-874000000.0,1028000000.0,-1927000000.0,3123000000.0,
+Net Short Term Debt Issuance,Flux de Trésorerie,-2327000000.0,-935000000.0,-1452000000.0,-610000000.0,
 Short Term Debt Payments,Flux de Trésorerie,-2359000000.0,-1192000000.0,-1670000000.0,-1044000000.0,
 Short Term Debt Issuance,Flux de Trésorerie,32000000.0,257000000.0,218000000.0,434000000.0,
 Net Long Term Debt Issuance,Flux de Trésorerie,1453000000.0,1963000000.0,-475000000.0,3733000000.0,
@@ -181,6 +183,7 @@ Sale Of Investment,Flux de Trésorerie,,,560000000.0,0.0,2680000000.0
 Purchase Of Investment,Flux de Trésorerie,,,,-32000000.0,-80000000.0
 Net Business Purchase And Sale,Flux de Trésorerie,-169000000.0,-1352000000.0,-2343000000.0,-939000000.0,
 Sale Of Business,Flux de Trésorerie,47000000.0,0.0,254000000.0,0.0,
+Purchase Of Business,Flux de Trésorerie,-216000000.0,-1352000000.0,-2597000000.0,-939000000.0,
 Net PPE Purchase And Sale,Flux de Trésorerie,-4237000000.0,-3837000000.0,-3895000000.0,-3373000000.0,
 Sale Of PPE,Flux de Trésorerie,100000000.0,568000000.0,718000000.0,95000000.0,
 Purchase Of PPE,Flux de Trésorerie,-4337000000.0,-4405000000.0,-4613000000.0,-3468000000.0,
