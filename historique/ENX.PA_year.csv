@@ -1,6 +1,6 @@
 Métrique,Catégorie,2025-12-31 00:00:00,2024-12-31 00:00:00,2023-12-31 00:00:00,2022-12-31 00:00:00,2021-12-31 00:00:00
 Tax Effect Of Unusual Items,Compte de Résultat,498222.0,1837448.260492,13407519.0,-8778.0,
-Tax Rate For Calcs,Compte de Résultat,0.267,0.260262,0.233,0.266,
+Tax Rate For Calcs,Compte de Résultat,,0.260262,,,
 Normalized EBITDA,Compte de Résultat,1183100000.0,1057257000.0,847414000.0,811789000.0,
 Total Unusual Items,Compte de Résultat,1866000.0,7060000.0,57543000.0,-33000.0,
 Total Unusual Items Excluding Goodwill,Compte de Résultat,1866000.0,7060000.0,57543000.0,-33000.0,

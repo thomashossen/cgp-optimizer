@@ -92,7 +92,6 @@ Current Deferred Revenue,Bilan,94000000.0,88000000.0,109000000.0,67000000.0,
 Current Debt And Capital Lease Obligation,Bilan,2739000000.0,2748000000.0,2312000000.0,2583000000.0,
 Current Capital Lease Obligation,Bilan,214000000.0,182000000.0,207000000.0,228000000.0,
 Current Debt,Bilan,2525000000.0,2566000000.0,2105000000.0,2355000000.0,
-Other Current Borrowings,Bilan,2525000000.0,2566000000.0,2105000000.0,2355000000.0,
 Current Provisions,Bilan,1039000000.0,938000000.0,588000000.0,1101000000.0,
 Payables And Accrued Expenses,Bilan,18406000000.0,17724000000.0,18400000000.0,18089000000.0,
 Current Accrued Expenses,Bilan,2517000000.0,2208000000.0,2537000000.0,2464000000.0,
@@ -169,7 +168,6 @@ Net Common Stock Issuance,Flux de Trésorerie,-262000000.0,-1300000000.0,-120800
 Common Stock Payments,Flux de Trésorerie,-262000000.0,-1300000000.0,-1208000000.0,-2937000000.0,
 Common Stock Issuance,Flux de Trésorerie,,,,0.0,0.0
 Net Issuance Payments Of Debt,Flux de Trésorerie,-874000000.0,1028000000.0,-1927000000.0,3123000000.0,
-Net Short Term Debt Issuance,Flux de Trésorerie,-2327000000.0,-935000000.0,-1452000000.0,-610000000.0,
 Short Term Debt Payments,Flux de Trésorerie,-2359000000.0,-1192000000.0,-1670000000.0,-1044000000.0,
 Short Term Debt Issuance,Flux de Trésorerie,32000000.0,257000000.0,218000000.0,434000000.0,
 Net Long Term Debt Issuance,Flux de Trésorerie,1453000000.0,1963000000.0,-475000000.0,3733000000.0,
@@ -183,7 +181,6 @@ Sale Of Investment,Flux de Trésorerie,,,560000000.0,0.0,2680000000.0
 Purchase Of Investment,Flux de Trésorerie,,,,-32000000.0,-80000000.0
 Net Business Purchase And Sale,Flux de Trésorerie,-169000000.0,-1352000000.0,-2343000000.0,-939000000.0,
 Sale Of Business,Flux de Trésorerie,47000000.0,0.0,254000000.0,0.0,
-Purchase Of Business,Flux de Trésorerie,-216000000.0,-1352000000.0,-2597000000.0,-939000000.0,
 Net PPE Purchase And Sale,Flux de Trésorerie,-4237000000.0,-3837000000.0,-3895000000.0,-3373000000.0,
 Sale Of PPE,Flux de Trésorerie,100000000.0,568000000.0,718000000.0,95000000.0,
 Purchase Of PPE,Flux de Trésorerie,-4337000000.0,-4405000000.0,-4613000000.0,-3468000000.0,
