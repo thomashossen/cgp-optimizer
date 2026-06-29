@@ -6,7 +6,7 @@ Net Debt,Bilan,1253700000.0,1254600000.0,1226700000.0
 Total Debt,Bilan,3085400000.0,2584900000.0,2873200000.0
 Tangible Book Value,Bilan,-956100000.0,-1147700000.0,-805700000.0
 Invested Capital,Bilan,4330800000.0,3564000000.0,4402600000.0
-Working Capital,Bilan,1159000000.0,,834500000.0
+Working Capital,Bilan,1159000000.0,446800000.0,834500000.0
 Net Tangible Assets,Bilan,-956100000.0,-1147700000.0,-805700000.0
 Capital Lease Obligations,Bilan,465600000.0,462800000.0,442300000.0
 Common Stock Equity,Bilan,1711000000.0,1441900000.0,1971700000.0
@@ -19,7 +19,7 @@ Additional Paid In Capital,Bilan,,207900000.0,
 Capital Stock,Bilan,54500000.0,54500000.0,54500000.0
 Common Stock,Bilan,54500000.0,54500000.0,54500000.0
 Total Liabilities Net Minority Interest,Bilan,5310200000.0,5080800000.0,5159100000.0
-Total Non Current Liabilities Net Minority Interest,Bilan,3106200000.0,,2619700000.0
+Total Non Current Liabilities Net Minority Interest,Bilan,3106200000.0,2597800000.0,2619700000.0
 Derivative Product Liabilities,Bilan,28700000.0,,58000000.0
 Non Current Pension And Other Postretirement Benefit Plans,Bilan,144300000.0,142300000.0,148800000.0
 Tradeand Other Payables Non Current,Bilan,13500000.0,,7300000.0
@@ -57,7 +57,7 @@ Machinery Furniture Equipment,Bilan,1243700000.0,,1238200000.0
 Buildings And Improvements,Bilan,702000000.0,,688800000.0
 Land And Improvements,Bilan,21400000.0,,23700000.0
 Properties,Bilan,0.0,,0.0
-Current Assets,Bilan,3363000000.0,,3373900000.0
+Current Assets,Bilan,3363000000.0,2929800000.0,3373900000.0
 Hedging Assets Current,Bilan,3200000.0,11400000.0,5400000.0
 Assets Held For Sale Current,Bilan,48700000.0,14700000.0,151800000.0
 Other Receivables,Bilan,444000000.0,321500000.0,472800000.0
