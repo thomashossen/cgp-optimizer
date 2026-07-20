@@ -1,6 +1,6 @@
 Métrique,Catégorie,2025-12-31 00:00:00,2024-12-31 00:00:00,2023-12-31 00:00:00,2022-12-31 00:00:00,2021-12-31 00:00:00
 Tax Effect Of Unusual Items,Compte de Résultat,5340210.71115,1720319.099015,-2882466.28131,-6383531.960997,
-Tax Rate For Calcs,Compte de Résultat,,0.28672,,,0.277177
+Tax Rate For Calcs,Compte de Résultat,0.356014,0.28672,0.262042,0.26598,
 Normalized EBITDA,Compte de Résultat,4282000000.0,4045000000.0,3911000000.0,3440000000.0,
 Total Unusual Items,Compte de Résultat,15000000.0,6000000.0,-11000000.0,-24000000.0,
 Total Unusual Items Excluding Goodwill,Compte de Résultat,15000000.0,6000000.0,-11000000.0,-24000000.0,
@@ -16,9 +16,9 @@ Normalized Income,Compte de Résultat,1012340210.71115,1034720319.099015,1021117
 Net Income From Continuing And Discontinued Operation,Compte de Résultat,1022000000.0,1039000000.0,1013000000.0,896000000.0,
 Total Expenses,Compte de Résultat,23564000000.0,21633000000.0,20033000000.0,18706000000.0,
 Total Operating Income As Reported,Compte de Résultat,2545000000.0,2415000000.0,2352000000.0,2160000000.0,
-Diluted Average Shares,Compte de Résultat,,94037940.0,96137229.0,95784530.0,98442941.0
+Diluted Average Shares,Compte de Résultat,,94037940.0,95117371.0,95784530.0,98442941.0
 Basic Average Shares,Compte de Résultat,,94037940.0,95117371.0,94740255.0,97405174.0
-Diluted EPS,Compte de Résultat,,11.07,10.53,9.36,7.65
+Diluted EPS,Compte de Résultat,,11.07,10.65,9.36,7.65
 Basic EPS,Compte de Résultat,,11.07,10.65,9.46,7.73
 Diluted NI Availto Com Stockholders,Compte de Résultat,1022000000.0,1039000000.0,1013000000.0,896000000.0,
 Average Dilution Earnings,Compte de Résultat,0.0,0.0,0.0,,
@@ -154,7 +154,7 @@ Net Business Purchase And Sale,Flux de Trésorerie,-1035000000.0,-807000000.0,-2
 Sale Of Business,Flux de Trésorerie,,157000000.0,56000000.0,38000000.0,21000000.0
 Purchase Of Business,Flux de Trésorerie,-1035000000.0,-964000000.0,-309000000.0,-1469000000.0,
 Net Intangibles Purchase And Sale,Flux de Trésorerie,-1166000000.0,-936000000.0,-868000000.0,-1021000000.0,
-Purchase Of Intangibles,Flux de Trésorerie,-1166000000.0,-386000000.0,-354000000.0,-527000000.0,
+Purchase Of Intangibles,Flux de Trésorerie,-1166000000.0,-936000000.0,-868000000.0,-1021000000.0,
 Net PPE Purchase And Sale,Flux de Trésorerie,196000000.0,229000000.0,154000000.0,151000000.0,
 Sale Of PPE,Flux de Trésorerie,196000000.0,229000000.0,154000000.0,151000000.0,
 Capital Expenditure Reported,Flux de Trésorerie,,-550000000.0,-514000000.0,-494000000.0,
