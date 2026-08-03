@@ -42,7 +42,6 @@ Interest Income Non Operating,Compte de Résultat,116800000.0,123500000.0,161400
 Operating Income,Compte de Résultat,2218700000.0,1817000000.0,1653700000.0,1442900000.0,
 Operating Expense,Compte de Résultat,3634500000.0,3556900000.0,3112700000.0,3012500000.0,
 Research And Development,Compte de Résultat,1327800000.0,1273700000.0,1107700000.0,1063600000.0,
-Selling General And Administration,Compte de Résultat,2306700000.0,2283200000.0,2005000000.0,1948900000.0,
 Selling And Marketing Expense,Compte de Résultat,1581600000.0,1590300000.0,1384000000.0,1350400000.0,
 General And Administrative Expense,Compte de Résultat,725100000.0,692900000.0,621000000.0,598500000.0,
 Gross Profit,Compte de Résultat,5853200000.0,5373900000.0,4766400000.0,4455400000.0,
@@ -91,7 +90,7 @@ Non Current Deferred Taxes Assets,Bilan,1276500000.0,1366600000.0,1183300000.0,1
 Financial Assets,Bilan,,,,0.0,4000000.0
 Other Investments,Bilan,279000000.0,365600000.0,129200000.0,127200000.0,
 Investmentin Financial Assets,Bilan,92300000.0,113100000.0,343900000.0,92200000.0,
-Available For Sale Securities,Bilan,92300000.0,113100000.0,343900000.0,92200000.0,
+Available For Sale Securities,Bilan,92300000.0,113100000.0,343900000.0,132800000.0,
 Long Term Equity Investment,Bilan,1712500000.0,1648200000.0,1648400000.0,1589300000.0,
 Investmentsin Associatesat Cost,Bilan,,1648200000.0,1648400000.0,,
 Goodwill And Other Intangible Assets,Bilan,10526600000.0,11431900000.0,10227700000.0,7035800000.0,
