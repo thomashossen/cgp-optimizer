@@ -1,6 +1,6 @@
 Métrique,Catégorie,2026-06-30 00:00:00,2026-03-31 00:00:00,2025-12-31 00:00:00,2025-09-30 00:00:00,2025-06-30 00:00:00,2025-03-31 00:00:00,2024-12-31 00:00:00
-Tax Effect Of Unusual Items,Compte de Résultat,109481.440265,52800.0,-8894139.70933,,0.0,0.0,
-Tax Rate For Calcs,Compte de Résultat,0.263811,0.264,0.266292,,0.257391,0.277,
+Tax Effect Of Unusual Items,Compte de Résultat,109560.0,52800.0,-8894139.70933,,0.0,0.0,
+Tax Rate For Calcs,Compte de Résultat,0.264,0.264,0.266292,,0.257391,0.277,
 Normalized EBITDA,Compte de Résultat,396802000.0,338800000.0,340182000.0,,330606000.0,294400000.0,
 Total Unusual Items,Compte de Résultat,415000.0,200000.0,-33400000.0,,,0.0,-29000000.0
 Total Unusual Items Excluding Goodwill,Compte de Résultat,415000.0,200000.0,-33400000.0,,,0.0,-29000000.0
@@ -10,7 +10,7 @@ Reconciled Cost Of Revenue,Compte de Résultat,64705000.0,128700000.0,120300000.
 EBITDA,Compte de Résultat,397217000.0,339000000.0,306782000.0,,330606000.0,294400000.0,
 EBIT,Compte de Résultat,343954000.0,288800000.0,252600000.0,,282442000.0,246100000.0,
 Net Interest Income,Compte de Résultat,-6241000.0,-6600000.0,-5900000.0,,-1217000.0,-1500000.0,
-Normalized Income,Compte de Résultat,218577481.440265,192152800.0,169205860.29067,,183757000.0,164800000.0,
+Normalized Income,Compte de Résultat,218577560.0,192152800.0,169205860.29067,,183757000.0,164800000.0,
 Net Income From Continuing And Discontinued Operation,Compte de Résultat,218883000.0,192300000.0,144700000.0,,183757000.0,164800000.0,
 Total Expenses,Compte de Résultat,242113000.0,237700000.0,208100000.0,212100000.0,219828000.0,,
 Rent Expense Supplemental,Compte de Résultat,,4900000.0,,,,4800000.0,4200000.0
